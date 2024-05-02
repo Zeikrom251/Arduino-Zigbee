@@ -2,7 +2,7 @@
 This Arduino code enables bidirectional communication between two Arduino boards using Zigbee modules.
 
 ## Functionality
-1. Setup():
+**1. Setup():**
 Initializes two UART serial connections: one on the standard port (UART0) and the other on Serial1 (UART1), both set at a baud rate of 9600. Upon startup, it sends the message "Test zigbee" over the standard serial connection to indicate the start of Zigbee communication testing.
 2. Loop():
 The loop() function handles both sending and receiving data via Zigbee in a continuous loop.
