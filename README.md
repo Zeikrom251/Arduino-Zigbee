@@ -20,3 +20,7 @@ Upon startup, it sends the message *Test zigbee* over the standard serial connec
 ### Note
 **-** Adjust baud rates and other configurations as needed to match your specific hardware setup.
 **-** Ensure proper power supply and connections for reliable communication between the Zigbee modules.
+
+[**Click to watch a demo**](https://youtu.be/P50TZ488H4Q)
+
+![](https://i.ibb.co/cJsPBt3/Zigbee.jpg)
