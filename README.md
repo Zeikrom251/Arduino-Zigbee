@@ -20,9 +20,9 @@ Upon startup, it sends the message *Test zigbee* over the standard serial connec
   **- Receiving :** If data is available on the Serial1 connection, it reads it and sends it over the standard serial connection (Serial), allowing for data reception from the other Arduino board.
 
 ## Usage
-**1.** Upload this code to two separate Arduino boards equipped with Zigbee modules.
-**2.** Ensure both Zigbee modules are properly configured.
-**3.** Open the serial monitor for each Arduino board to monitor communication.
+- Upload this code to two separate Arduino boards equipped with Zigbee modules.
+- Ensure both Zigbee modules are properly configured.
+- Open the serial monitor for each Arduino board to monitor communication.
 
 ## Circuit Diagram
 ![](https://i.ibb.co/cJsPBt3/Zigbee.jpg)
